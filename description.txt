@@ -1,0 +1,4 @@
+A jQuery-based Jojo port of Shadowbox - a media-viewer script for web pages that allows content to be
+viewed lightbox-style without navigating away from the original linking page.
+
+See the readme file for usage information, licensing and credits
